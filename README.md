@@ -3,9 +3,9 @@
 [my site](https://rorepoid.github.io)
 
 ## Categories
-* Markdown
-* Vue
-* HTML
+* [Markdown](https://github.com/rorepoid/til#markdown)
+* [Vue](https://github.com/rorepoid/til#vue)
+* [HTML](https://github.com/rorepoid/til#html)
 
 ## Markdown
 * Para escribir textos como los tags <h_> se usan los **#** (con un espacio)
