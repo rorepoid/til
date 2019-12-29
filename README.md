@@ -12,3 +12,4 @@
 * Para escribir enlaces se usa [texto a ver]**(url.com)**
 
 ## Vue
+* La instancia de Vue se va a enlazar únicamente con el primer elemento que coincida con el selector, por eso es que se usan los id en lugar de las clases por ejemplo.
