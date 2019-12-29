@@ -5,6 +5,7 @@
 ## Categories
 * Markdown
 * Vue
+* HTML
 
 ## Markdown
 * Para escribir textos como los tags <h_> se usan los **#** (con un espacio)
@@ -13,3 +14,5 @@
 
 ## Vue
 * La instancia de Vue se va a enlazar únicamente con el primer elemento que coincida con el selector, por eso es que se usan los id en lugar de las clases por ejemplo.
+
+## HTML
