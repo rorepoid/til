@@ -16,3 +16,4 @@
 * La instancia de Vue se va a enlazar únicamente con el primer elemento que coincida con el selector, por eso es que se usan los id en lugar de las clases por ejemplo.
 
 ## HTML
+* &copy; se hace con &copy ;
